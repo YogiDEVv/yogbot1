@@ -1,0 +1,20 @@
+{
+  "name": "yogi-bot",
+  "version": "24.9.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "discord.js-captcha": "^3.0.8",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.2"
+  }
+}
